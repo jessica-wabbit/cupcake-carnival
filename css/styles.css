@@ -1,0 +1,53 @@
+h1 {
+  color: magenta;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: skyblue;
+}
+
+p {
+  width: 600px;
+
+}
+body {
+  font-family: sans-serif;
+  background-color: pink;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+  font-weight:bolder;
+
+}
+
+br.gallery {
+  line-height: 100px
+}
+
+.best {
+  font-weight: bolder;
+  color: #fff74d;
+  font-style: italic;
+  font-size: 20px;
+}
+
+a:link    {
+  text-decoration:  none;
+  font-weight:      bold;
+  color:            green;
+  }
+
+  a:visited {
+  text-decoration:  none;
+  font-weight:      bold;
+  background-color: #ddd;
+  color:            orange;
+  }
